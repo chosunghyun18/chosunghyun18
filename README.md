@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot,Java,Kotlin.🚀<br/>
   I have experience SpringBoot Jpa development for summer hackathons and Flutter app development for Google Solution Challenge.<br/>
   For the past year, I'm participated in Google Developers Student Clubs HUFS(GDSCHUFS) as Member.<br/>
-  Currently I'm Core Member of GDSCHUGS and Interest in Growth of Team and Individual.<br/>
+  Currently I'm Core Member of GDSCHUFS and Interest in Growth of Team and Individual.<br/>
   Sometimes I develop cross-platforms mobile app like Flutter. (but prefer Spring Boot)<br/><br/>
   Nowadays give strength in a field of CleanArchitecture,CleanCode.<br/>
   I enjoy SnowBoarding,BodyBuilding, sky and scuba dive and surf.  🏄<br/>
