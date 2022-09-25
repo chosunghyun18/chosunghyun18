@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 
 <p>
   <a href="https://chosunghyun18.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/SunghyunCho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
