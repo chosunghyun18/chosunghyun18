@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   For the past year, I'm participated in Google Developers Student Clubs HUFS(GDSCHUFS) as Member.<br/>
   Currently I'm Core Member of GDSCHUFS and Interest in Growth of Team and Individual.<br/>
   Sometimes I develop cross-platforms mobile app like Flutter. (but prefer Spring Boot)<br/><br/>
-  Nowadays give strength in a field of CleanArchitecture,CleanCode.<br/>
+  Nowadays give strength in a field of CleanArchitecture,CleanCode Based on fundamental of computer science .<br/>
   I enjoy SnowBoarding,BodyBuilding, sky and scuba dive and surf.  🏄<br/>
   I hope to develop for Better world. ✨ <br/><br/>
 </p>
