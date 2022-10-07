@@ -54,9 +54,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486)
 
 ![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosunghyun18&show_icons=true&theme=radical)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486/)
 
