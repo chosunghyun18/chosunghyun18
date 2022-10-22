@@ -10,11 +10,11 @@
 
 
 -->
-<p>
+<div align=center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chosunghyun18.tistory.com/)](https://chosunghyun18.tistory.com//)
-
   <a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+</div>
 
 <p>
   👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot,Java,Kotlin.🚀<br/>
