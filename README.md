@@ -58,3 +58,7 @@ Here are some ideas to get you started:
 ![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosunghyun18&show_icons=true&theme=radical)
 
 Current Join(2022.10) Team's App : https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
+
+2022.07 ~ TeamProject(Spring Boot Server Part) (Will distribute in 22.12): https://github.com/HUFSummer-Hackathon
+
+2022.09 ~ TeamProject(NextJs Server & DevInfra Part) :https://github.com/gnuvill-web-dev/gnuvillage-backend
