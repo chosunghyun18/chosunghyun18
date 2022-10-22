@@ -11,7 +11,7 @@
 
 -->
 <p>
-  <a href="https://chosunghyun18.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chosunghyun18.tistory.com/)](https://chosunghyun18.tistory.com//)
 
   <a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
