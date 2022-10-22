@@ -52,9 +52,14 @@
 
 
 
-2022.10 ~ PrivateTeam (NestJs Server & Infra Part & PM) Team's App 
+2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
 - https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
 
-2022.07 ~ TeamProject(Spring Boot Server Part) (Will distribute in 22.12): https://github.com/HUFSummer-Hackathon
+2022.09 ~ Gnuvill_Team(NestJs Server & Infra Part) 
+- https://github.com/gnuvill-web-dev/gnuvillage-backend
 
-2022.09 ~ TeamProject(NestJs Server & Infra Part) :https://github.com/gnuvill-web-dev/gnuvillage-backend
+2022.07 ~ NomadWorker_Team(Spring Boot Server Part) (Will distribute in 22.12)
+- https://github.com/HUFSummer-Hackathon
+
+2021.12 ~ 2022.03 HandyCon_Team(Flutter App Part) 
+- https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
