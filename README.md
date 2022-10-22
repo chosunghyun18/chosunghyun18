@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <a href="https://chosunghyun18.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 
   <a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486/)
 </p>
 
 <p>
@@ -57,5 +58,4 @@ Here are some ideas to get you started:
 
 ![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosunghyun18&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486/)
-
+Current Join(2022.10) Team's App : https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
