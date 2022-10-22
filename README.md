@@ -52,7 +52,8 @@
 
 
 
-2022.10 ~ PrivateTeam (NextJs Server & DevInfra Part) Team's App : https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
+2022.10 ~ PrivateTeam (NextJs Server & DevInfra Part) Team's App 
+- https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
 
 2022.07 ~ TeamProject(Spring Boot Server Part) (Will distribute in 22.12): https://github.com/HUFSummer-Hackathon
 
