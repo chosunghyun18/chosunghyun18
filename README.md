@@ -7,12 +7,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486/)
  <a href="" target="_blank"><img src="https://img.shields.io/badge/SunghyunCho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 ![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosunghyun18&show_icons=true&theme=radical)
-
-
 -->
+
+
+
 <div align=center>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chosunghyun18.tistory.com/)](https://chosunghyun18.tistory.com/)
-  <a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://chosunghyun18.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://chosunghyun18.tistory.com/"/></a> 
+ 
+ <a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 </div>
 
