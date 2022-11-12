@@ -62,10 +62,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Statics & ML,DL
+ <p>
    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-
+ </p>
 
 2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
 - https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
