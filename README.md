@@ -71,10 +71,7 @@
  </p>
 
 2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
-- https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
-
-2022.09 ~ 2022.11 Gnuvill_Team(NestJs Server & Infra Part) 
-- https://github.com/gnuvill-web-dev/gnuvillage-backend
+- https://play.google.com/store/apps/details?id=com.livewithtogether.nyam&pli=1
 
 2022.07 ~ NomadWorker_Team(Spring Boot Server Part) (Will distribute in 22.12)
 - https://github.com/HUFSummer-Hackathon
