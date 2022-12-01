@@ -21,7 +21,8 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot,Java,Kotlin.🚀<br/>
-  I have experience in NestJS Server Develop with NginX ,SpringBoot Jpa development for summer hackathons and Flutter app development for Google Solution Challenge.<br/>
+  I have experience in NestJS Server Develop,
+  SpringBoot Jpa development for summer hackathons and Flutter app development for Google Solution Challenge.<br/>
   For the past year, I'm participated in Google Developers Student Clubs HUFS(GDSCHUFS) as Member.<br/>
   Currently I'm Core Member of GDSCHUFS and Team Live-with, Interest in Growth of Team and Individual.<br/>
   Sometimes I develop cross-platforms mobile app like Flutter. (but prefer Spring Boot)<br/><br/>
