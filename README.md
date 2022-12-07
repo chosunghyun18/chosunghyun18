@@ -72,9 +72,9 @@
 
 2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
 
-- play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
+- Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
 
-- app Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
+- App Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
 
 2022.07 ~ NomadWorker_Team(Spring Boot Server Part) (Will distribute in 22.12)
 - https://github.com/HUFSummer-Hackathon
