@@ -20,11 +20,10 @@
 </div>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot,Java,Kotlin.🚀<br/>
-  I have experience in NestJS Server Develop,
-  SpringBoot Jpa development for summer hackathons and Flutter app development for Google Solution Challenge.<br/>
+  👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot(Java),NestJs,etc.🚀<br/>
+  I have experienced in NestJs server development in Startup team and also SpringBoot Jpa development for summer hackathons and Flutter app development for Google Solution Challenge.<br/>
   For the past year, I'm participated in Google Developers Student Clubs HUFS(GDSCHUFS) as Member.<br/>
-  Currently I'm Core Member of GDSCHUFS and Team Live-with, Interest in Growth of Team and Individual.<br/>
+  Currently I'm Core Member of GDSCHUFS and Join in StartUp Team Live-with, I'm Interest in Growth of Team and Individual.<br/>
   <br/><br/>
   Nowadays give strength in a field of CleanArchitecture,CleanCode Based on fundamental of computer science .<br/>
   I enjoy SnowBoarding,BodyBuilding, sky and scuba dive and surf.  🏄<br/>
@@ -72,7 +71,10 @@
  </p>
 
 2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
+play Store
 - https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
+app Store
+- https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
 
 2022.07 ~ NomadWorker_Team(Spring Boot Server Part) (Will distribute in 22.12)
 - https://github.com/HUFSummer-Hackathon
