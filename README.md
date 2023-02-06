@@ -69,8 +69,10 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
  </p>
+2023.01 ~ Greendar (Java SpringBoot,GCP)
+- https://github.com/Team-Greendar/GreendarServer
 
-2022.10 ~ LiveWith_Team (NestJs Server & Infra Part & PM) Team's App 
+2022.10 ~ LiveWith_Team (NestJs ,AWS , MongoDB ) Team's App 
 - Team Notion : https://www.notion.so/xogns9578/Livewith-770034c088a041a5a46ddf6318ec56fe
 
 - Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
