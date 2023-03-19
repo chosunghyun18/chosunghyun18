@@ -74,7 +74,7 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-2023.03 ~ EarthDefenseCorps (Java SpringBoot,GCP)
+2023.03 ~ EarthDefenseCorps (Java SpringBoot,AWS)
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
  
 2023.01 ~ 2023.04 Greendar (Java SpringBoot,GCP)
