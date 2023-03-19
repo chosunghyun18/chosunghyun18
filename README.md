@@ -2,22 +2,18 @@
 
 <!--
 
-**chosunghyun18/chosunghyun18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kris2486)](https://solved.ac/kris2486/)
- <a href="" target="_blank"><img src="https://img.shields.io/badge/SunghyunCho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-![Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosunghyun18&show_icons=true&theme=radical)
-<a href="mailto:jo187712@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jo187712@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+#### Languages
+<p>
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+ <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+</p>
 
--->
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-<div align=center>
-
-<a href="https://chosunghyun18.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://chosunghyun18.tistory.com/"/>
-</a> 
- 
-</div>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 <p>
   👋&nbsp; Hi there! I'm <b>Back-End developer</b> skilled in SpringBoot(Java),NestJs,etc.🚀<br/>
@@ -30,22 +26,33 @@
   I hope to develop for Better world. ✨ <br/><br/>
 </p>
 
+#### Statics & ML,DL
+ <p>
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+ </p>
+
+-->
+
+
+<div align=center>
+
+<a href="https://chosunghyun18.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://chosunghyun18.tistory.com/"/>
+</a> 
+ 
+</div>
+
+
+
 
 ### 💪 Skills
 #### Frameworks,Platforms
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-</p>
-
-#### Languages
-<p>
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+   
 </p>
 
 #### Databases
@@ -60,20 +67,13 @@
 #### Servers
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Statics & ML,DL
- <p>
-   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
- </p>
  
-2023.01 ~ Greendar (Java SpringBoot,GCP)
+2023.01 ~ 2023.04 Greendar (Java SpringBoot,GCP)
 - https://github.com/Team-Greendar/GreendarServer
 
-2022.10 ~ LiveWith_Team (NestJs ,AWS , MongoDB ) Team's App 
+2022.10 ~ 2023.04 LiveWith_Team (NestJs ,AWS , MongoDB ) Team's App 
 - Team Notion : https://www.notion.so/xogns9578/Livewith-770034c088a041a5a46ddf6318ec56fe
 
 - Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
