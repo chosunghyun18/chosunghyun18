@@ -47,10 +47,13 @@
 </div>
 
 
+##### Major
+Computer and Electronic System Engineering
 
+##### Double Major
+Statistics
 
-#### Skills
-
+##### Skills
 #### Frameworks,Platforms
 <p>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
