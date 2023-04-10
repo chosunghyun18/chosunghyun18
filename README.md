@@ -74,21 +74,21 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Team Projects
-2023.04 ~ EarthDefenseCorps (Java SpringBoot,AWS)
+2023.04 ~ EarthDefenseCorps (Java SpringBoot,AWS BE)
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
  
-2023.01 ~ 2023.04 Greendar (Java SpringBoot,GCP)
+2023.01 ~ 2023.04 Greendar (Java SpringBoot,GCP PL)
 - https://github.com/Team-Greendar/GreendarServer
 
-2022.10 ~ 2023.04 LiveWith_Team (NestJs ,AWS , MongoDB ) Team's App 
+2022.10 ~ 2023.04 LiveWith_Team (NestJs ,AWS , MongoDB Dev PL) 
 - Team Notion : https://www.notion.so/xogns9578/Livewith-770034c088a041a5a46ddf6318ec56fe
 
 - Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
 
 - App Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
 
-2022.07 ~ 2022.08 NomadWorker_Team(Spring Boot Server Part) 
-- https://github.com/HUFSummer-Hackathon
+2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
+- https://github.com/HUFSummer-Hackathon/Server
 
-2021.12 ~ 2022.03 HandyCon_Team(Flutter App Part) 
+2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
