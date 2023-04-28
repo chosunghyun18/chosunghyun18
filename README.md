@@ -74,7 +74,7 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Team Projects
-2023.04.28 ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 - https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
 
 2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE-Lead)
