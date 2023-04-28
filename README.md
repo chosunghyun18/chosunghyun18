@@ -74,13 +74,16 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Team Projects
-2023.04 ~ EarthDefenseCorps (Java SpringBoot,AWS BE)
+2023.04.28 ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+- https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
+
+2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE-Lead)
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
  
-2023.01 ~ 2023.04 Greendar (Java SpringBoot,GCP PL)
+2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL)
 - https://github.com/Team-Greendar/GreendarServer
 
-2022.10 ~ 2023.04 LiveWith_Team (NestJs ,AWS , MongoDB Dev PL) 
+2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL) 
 - Team Notion : https://www.notion.so/xogns9578/Livewith-770034c088a041a5a46ddf6318ec56fe
 
 - Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
