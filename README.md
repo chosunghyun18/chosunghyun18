@@ -77,7 +77,7 @@ Statistics
 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 - https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
 
-2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE-Lead)
+2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
  
 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL)
