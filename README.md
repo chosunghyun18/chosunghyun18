@@ -87,11 +87,7 @@ Statistics
 - https://github.com/Team-Greendar/GreendarServer
 
 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL) 
-- Team Notion : https://www.notion.so/xogns9578/Livewith-770034c088a041a5a46ddf6318ec56fe
-
-- Play Store: https://play.google.com/store/apps/details?id=com.livewithtogether.nyam
-
-- App Store: https://apps.apple.com/kr/app/%EB%83%A0-nyam/id6443465109
+- https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
 - https://github.com/HUFSummer-Hackathon/Server
