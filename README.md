@@ -46,7 +46,7 @@ Statistics
   
 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
-한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스 
+한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스 
 
 - https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
 
