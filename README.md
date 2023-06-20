@@ -37,6 +37,7 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Team Projects
+
 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
 
 제 2 회 한국외대 썸머 해커톤, 전문직 매칭 서비스 (웹소켓을 사용한 1:1 ,N:M 채팅 구현)
@@ -45,11 +46,14 @@ Statistics
   
 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
-캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스 
+한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스 
 
 - https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
 
 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL) 
+
+대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
+
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
 #### Team Projects For Fun
