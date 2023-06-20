@@ -38,23 +38,28 @@ Statistics
 
 #### Team Projects
 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
-웹소켓을 사용한 1:1 ,N:M 채팅 구현
+
+제 2 회 한국외대 썸머 해커톤, 전문직 매칭 서비스 (웹소켓을 사용한 1:1 ,N:M 채팅 구현)
+
 - https://github.com/GreenTinCan/GreenTinCan-BackEnd
   
 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+
+캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스 
+
 - https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server
 
 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL) 
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
-#### Projects For Fun
+#### Team Projects For Fun
 
 2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 간단한 게임 서버
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
  
 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL)
-2023 솔류션 첼린지 출품 작 , 환경을 위한 todo List
+2023 구글 솔류션 첼린지 , 환경을 위한 todo List
 - https://github.com/Team-Greendar/GreendarServer
 
 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
@@ -62,5 +67,9 @@ Statistics
 - https://github.com/HUFSummer-Hackathon/Server
 
 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) 
-2022 솔류션 첼린지 출품 작 , UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+2022 구글 솔류션 첼린지 , UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
+
+#### Solo Projects For Fun
+- 우아한 테크 코스 OOP,TDD 연습
+자바 로또 : https://github.com/chosunghyun18/java-lotto
