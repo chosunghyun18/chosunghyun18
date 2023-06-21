@@ -52,7 +52,7 @@ Statistics
 
 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL) 
 
-대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
+한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
 
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
