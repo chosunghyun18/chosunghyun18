@@ -40,9 +40,9 @@ Statistics
 
 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
 
-제 2 회 한국외대 썸머 해커톤, 전문직 매칭 서비스 (웹소켓을 사용한 1:1 ,N:M 채팅 구현)
+제 2 회 한국외대 썸머 해커톤
 
-- https://github.com/GreenTinCan/GreenTinCan-BackEnd
+- https://github.com/orgs/GreenTinCan/repositories
   
 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
