@@ -40,7 +40,7 @@ Statistics
 
 ##### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
 
-제 2 회 한국외대 썸머 해커톤
+제 2 회 한국외대 썸머 해커톤 최우수상 ,  
 
 - https://github.com/orgs/GreenTinCan/repositories
   
