@@ -74,13 +74,9 @@ Statistics
 
 - https://github.com/HUFSummer-Hackathon/Server
 
-#### Team Projects For Fun
+---
 
-##### 간단한 게임 서버
-
-###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
-
-- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
+#### For Fun
 
 ##### 2023 구글 솔류션 첼린지
 
@@ -94,10 +90,12 @@ Statistics
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
----
+##### 간단한 게임 서버
 
-#### Practice for fun
+###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
-- 우아한 테크 코스 OOP,TDD 연습
+- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
+
+##### OOP 연습
 
 자바 로또 : https://github.com/chosunghyun18/java-lotto
