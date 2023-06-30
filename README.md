@@ -37,12 +37,6 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### Team Projects
-
-##### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
-
-제 2 회 한국외대 썸머 해커톤 최우수상 ,  
-
-- https://github.com/orgs/GreenTinCan/repositories
   
 ##### 2023.05. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
@@ -57,6 +51,13 @@ Statistics
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
 #### Team Projects For Fun
+
+##### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
+
+제 2 회 한국외대 썸머 해커톤 최우수상 , 혼밥 하기 싫을때 쓰는 밥풀 서비스
+
+- https://github.com/orgs/GreenTinCan/repositories
+
 
 ##### 2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
