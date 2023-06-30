@@ -78,6 +78,10 @@ Statistics
 
 #### For Fun
 
+##### OOP
+
+- https://github.com/chosunghyun18/java-lotto
+
 ##### 2023 구글 솔류션 첼린지
 
 ###### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
@@ -95,7 +99,3 @@ Statistics
 ###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
-
-##### OOP 연습
-
-자바 로또 : https://github.com/chosunghyun18/java-lotto
