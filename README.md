@@ -52,21 +52,22 @@ Statistics
 
 #### Awards
 
-##### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
+##### 제 2 회 한국외대 썸머 해커톤 , 최우수상 
 
-제 2 회 한국외대 썸머 해커톤 최우수상 , 혼밥 하기 싫을때 쓰는 밥풀 서비스
+###### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | Lead) 혼밥 하기 싫을때 쓰는 밥풀 서비스
 
 - https://github.com/orgs/GreenTinCan/repositories
 
-##### 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
+##### 제 1 회 한국외대 썸머 해커톤 , 우수상 
 
-제 1 회 한국외대 썸머 해커톤 우수상 , 디지털 노마드들을 위한 장소 정보 안내 서비스
+###### 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 디지털 노마드들을 위한 장소 정보 안내 서비스
 
 - https://github.com/HUFSummer-Hackathon/Server
 
+
 #### Team Projects For Fun
 
-##### 2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE)
+##### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
 간단한 게임 서버
 
