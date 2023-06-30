@@ -67,21 +67,21 @@ Statistics
 
 #### Team Projects For Fun
 
-##### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
+##### 간단한 게임 서버
 
-간단한 게임 서버
+###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
- 
-##### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL)
 
-2023 구글 솔류션 첼린지 , 환경을 위한 todo List 서비스
+##### 2023 구글 솔류션 첼린지 
+
+###### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
 
 - https://github.com/Team-Greendar/GreendarServer
+- 
+##### 2022 구글 솔류션 첼린지 
 
-##### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) 
-
-2022 구글 솔류션 첼린지 , UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+###### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
