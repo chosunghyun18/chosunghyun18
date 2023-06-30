@@ -50,7 +50,7 @@ Statistics
 
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
-#### Team Projects For Fun
+#### Awards
 
 ##### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | BE-Lead)
 
@@ -58,6 +58,13 @@ Statistics
 
 - https://github.com/orgs/GreenTinCan/repositories
 
+##### 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
+
+제 1 회 한국외대 썸머 해커톤 우수상 , 디지털 노마드들을 위한 장소 정보 안내 서비스
+
+- https://github.com/HUFSummer-Hackathon/Server
+
+#### Team Projects For Fun
 
 ##### 2023.04 ~ Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
@@ -71,19 +78,13 @@ Statistics
 
 - https://github.com/Team-Greendar/GreendarServer
 
-##### 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 
-
-제 1 회 한국외대 썸머 해커톤 우수상 , 디지털 노마드들을 위한 장소 정보 안내 서비스
-
-- https://github.com/HUFSummer-Hackathon/Server
-
 ##### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) 
 
 2022 구글 솔류션 첼린지 , UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
-#### Solo Projects For Fun
+#### Solo practice for fun
 
 - 우아한 테크 코스 OOP,TDD 연습
   
