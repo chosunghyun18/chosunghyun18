@@ -80,7 +80,7 @@ Statistics
 
 ##### OOP
 
-- https://github.com/chosunghyun18/java-lotto
+- https://github.com/chosunghyun18/java-baseball-study
 
 ##### 2023 구글 솔류션 첼린지
 
