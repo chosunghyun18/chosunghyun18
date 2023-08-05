@@ -66,7 +66,7 @@ Statistics
 
 ###### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | Lead) 혼밥 하기 싫을때 쓰는 밥풀 서비스
 
-- https://github.com/orgs/GreenTinCan/repositories
+- https://github.com/GreenTinCan/Bobfull-server
 
 ##### 제 1 회 한국외대 썸머 해커톤 , 우수상
 
