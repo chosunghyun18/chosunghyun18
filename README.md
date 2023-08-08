@@ -78,7 +78,7 @@ Statistics
 
 #### For Fun
 
-##### OOP
+##### Domain Modeling and OOP
 
 - https://github.com/chosunghyun18/java-baseball-study
 
