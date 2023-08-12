@@ -80,7 +80,7 @@ Statistics
 
 ##### Domain Modeling and OOP
 
-- https://github.com/chosunghyun18/java-baseball-study
+- https://github.com/chosunghyun18/OOP/blob/main/README.md
 
 ##### 2023 구글 솔류션 첼린지
 
