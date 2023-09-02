@@ -25,6 +25,32 @@ BLog : https://chosunghyun18.tistory.com
 
 ---
 
+#### For Fun
+
+##### Domain Modeling and OOP
+
+- https://github.com/chosunghyun18/OOP/blob/main/README.md
+
+##### 2023 구글 솔류션 첼린지
+
+###### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
+
+- https://github.com/Team-Greendar/GreendarServer
+
+##### 2022 구글 솔류션 첼린지
+
+###### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+
+- https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
+
+##### 간단한 게임 서버
+
+###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
+
+- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
+
+---
+
 #### Awards
 
 ##### 제 2 회 한국외대 썸머 해커톤 , 최우수상
@@ -41,21 +67,6 @@ BLog : https://chosunghyun18.tistory.com
 
 ---
 
-#### For Fun
-
-##### Domain Modeling and OOP
-
-- https://github.com/chosunghyun18/OOP/blob/main/README.md
-
-##### 2023 구글 솔류션 첼린지
-
-###### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
-
-- https://github.com/Team-Greendar/GreendarServer
-
-##### 2022 구글 솔류션 첼린지
-
-###### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
 #### Major
 
 Computer and Electronic System Engineering
@@ -90,12 +101,3 @@ Statistics
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-
-
-- https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
-
-##### 간단한 게임 서버
-
-###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
-
-- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
