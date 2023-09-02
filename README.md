@@ -9,41 +9,6 @@ BLog : https://chosunghyun18.tistory.com
 
 ---
 
-#### Major
-
-Computer and Electronic System Engineering
-
-#### Double Major
-
-Statistics
-
----
-
-#### Skills
-
-##### Frameworks,Platforms
-
-<p>
-   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   
-</p>
-
-##### Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-##### Infras
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
 #### Team Projects
 
 ##### 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
@@ -91,6 +56,41 @@ Statistics
 ##### 2022 구글 솔류션 첼린지
 
 ###### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+#### Major
+
+Computer and Electronic System Engineering
+
+#### Double Major
+
+Statistics
+
+---
+
+#### Skills
+
+##### Frameworks,Platforms
+
+<p>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+   
+</p>
+
+##### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+##### Infras
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
