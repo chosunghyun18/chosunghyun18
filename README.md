@@ -11,7 +11,7 @@ BLog : https://chosunghyun18.tistory.com
 
 #### Team Projects
 
-##### 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+#####  🔥 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 
@@ -27,7 +27,9 @@ BLog : https://chosunghyun18.tistory.com
 
 #### For Fun
 
-##### Domain Modeling and OOP
+##### 🔥 Domain Modeling and OOP
+
+ 도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음 
 
 - https://github.com/chosunghyun18/OOP/blob/main/README.md
 
