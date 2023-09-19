@@ -45,7 +45,7 @@ BLog : https://chosunghyun18.tistory.com
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
-##### 간단한 게임 서버
+##### 모바일 게임 (플레이 스토어)
 
 ###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
