@@ -9,9 +9,9 @@ BLog : https://chosunghyun18.tistory.com
 
 ---
 
-#### Team Projects
+Team Projects
 
-#####  🔥 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+🔥 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 
