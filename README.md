@@ -32,7 +32,7 @@ For Fun
 
 지구 방위대 모바일 게임 (Play store)
 - **Duration:** 2023.04 ~ 2023.05
-- **Tech Stack:** SpringBoot, AWS | BE
+- **Tech Stack:** SpringBoot, AWS 
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 2023 구글 솔류션 첼린지 PL
