@@ -11,17 +11,17 @@ BLog : https://chosunghyun18.tistory.com
 
 Main Projects
 
-🔥 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
+🔥 여행필독서 (Travel Feel Dog)
+- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
+- **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
+- **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
+- **Repo:** [GitHub Link](https://github.com/chosunghyun18/TravelFeelDog-Server)
 
-한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
-
-- https://github.com/chosunghyun18/TravelFeelDog-Server
-
-2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL)
-
-한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 (IOS ,Android)
-
-- https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
+  마이무라  (Play store , app store)
+- **Duration:**  2022.10 ~ 2023.04
+- **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
+- **Tech Stack:** NestJs, AWS, MongoDB 
+- **Repo:** [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj)
 
 ---
 For Fun
@@ -30,21 +30,21 @@ For Fun
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
-지구 방위대 모바일 게임 (play store)
-- **Duration:** 2023.04 ~ 2023.06
+지구 방위대 모바일 게임 (Play store)
+- **Duration:** 2023.04 ~ 2023.05
 - **Tech Stack:** SpringBoot, AWS | BE
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
-2023 구글 솔류션 첼린지
+2023 구글 솔류션 첼린지 PL
 - **Duration:** 2023.01 ~ 2023.04
 - **Description:** 환경을 위한 todo List 서비스 "그린더"
-- **Tech Stack:** SpringBoot, GCP | PL
+- **Tech Stack:** SpringBoot, GCP 
 - **Repo:** [GitHub Link](https://github.com/Team-Greendar/GreendarServer)
 
-2022 구글 솔류션 첼린지
+2022 구글 솔류션 첼린지 FE
 - **Duration:** 2021.12 ~ 2022.03
 - **Description:** UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스 "핸디콘"
-- **Tech Stack:** Flutter App FE
+- **Tech Stack:** Flutter App 
 - **Repo:** [GitHub Link](https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon)
 
 ---
@@ -53,16 +53,18 @@ For Fun
 Awards
 
 제 2 회 한국외대 썸머 해커톤 , 최우수상
-
-2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | Lead) 혼밥 하기 싫을때 쓰는 밥풀 서비스
-
-- https://github.com/GreenTinCan/Bobfull-server
+- **Duration:** 2023.06.
+- **Team:** 초록 깡통 , Lead
+- **Description:** 혼밥 하기 싫을때 쓰는 밥풀 서비스 
+- **Tech Stack:** SpringBoot, Mysql, AWS
+- **Repo:** [GitHub Link](https://github.com/GreenTinCan/Bobfull-server)
 
 제 1 회 한국외대 썸머 해커톤 , 우수상
-
-2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 디지털 노마드들을 위한 장소 정보 안내 서비스
-
-- https://github.com/HUFSummer-Hackathon/Server
+- **Duration:** 2022.07 ~ 2022.08
+- **Team:** NomadWorker , BE
+- **Description:** 디지털 노마드들을 위한 장소 정보 안내 서비스
+- **Tech Stack:** SpringBoo, Mysql, AWS 
+- **Repo:** [GitHub Link](https://github.com/HUFSummer-Hackathon/Server)
 
 ---
 
