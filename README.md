@@ -17,7 +17,7 @@ Main Projects
 - **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/TravelFeelDog-Server)
 
-마이무라  ([Play store] https://play.google.com/store/apps/details?id=com.livewithtogether.nyam, app store)
+마이무라  ([Play store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam), app store)
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB 
@@ -30,7 +30,7 @@ For Fun
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
-지구 방위대 모바일 게임 ([Play store]https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=ko-KR)
+지구 방위대 모바일 게임 ([Play store](https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=ko-KR))
 - **Duration:** 2023.04 ~ 2023.05
 - **Tech Stack:** SpringBoot, AWS 
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
