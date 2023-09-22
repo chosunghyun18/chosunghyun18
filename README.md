@@ -17,7 +17,7 @@ Team Projects
 
 - https://github.com/chosunghyun18/TravelFeelDog-Server
 
-##### 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL)
+2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL)
 
 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
 
@@ -25,63 +25,63 @@ Team Projects
 
 ---
 
-#### For Fun
+For Fun
 
-##### 🔥 Domain Modeling and OOP
+🔥 Domain Modeling and OOP
 
  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음 
 
 - https://github.com/chosunghyun18/OOP/blob/main/README.md
 
-##### 2023 구글 솔류션 첼린지
+2023 구글 솔류션 첼린지
 
-###### 2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
+2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
 
 - https://github.com/Team-Greendar/GreendarServer
 
-##### 2022 구글 솔류션 첼린지
+2022 구글 솔류션 첼린지
 
-###### 2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
 
-##### 모바일 게임 (플레이 스토어)
+모바일 게임 (플레이 스토어)
 
-###### 2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
+2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
 
 - https://github.com/EarthDefenseCorps/earth-defense-corps-backend
 
 ---
 
-#### Awards
+Awards
 
-##### 제 2 회 한국외대 썸머 해커톤 , 최우수상
+제 2 회 한국외대 썸머 해커톤 , 최우수상
 
-###### 2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | Lead) 혼밥 하기 싫을때 쓰는 밥풀 서비스
+2023.06. ~ Team: 초록 깡통 (SpringBoot,AWS | Lead) 혼밥 하기 싫을때 쓰는 밥풀 서비스
 
 - https://github.com/GreenTinCan/Bobfull-server
 
-##### 제 1 회 한국외대 썸머 해커톤 , 우수상
+제 1 회 한국외대 썸머 해커톤 , 우수상
 
-###### 2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 디지털 노마드들을 위한 장소 정보 안내 서비스
+2022.07 ~ 2022.08 NomadWorker_Team(SpringBoot BE ) 디지털 노마드들을 위한 장소 정보 안내 서비스
 
 - https://github.com/HUFSummer-Hackathon/Server
 
 ---
 
-#### Major
+Major
 
 Computer and Electronic System Engineering
 
-#### Double Major
+Double Major
 
 Statistics
 
 ---
 
-#### Skills
+Skills
 
-##### Frameworks,Platforms
+Frameworks,Platforms
 
 <p>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -90,12 +90,12 @@ Statistics
    
 </p>
 
-##### Databases
+Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-##### Infras
+Infras
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
