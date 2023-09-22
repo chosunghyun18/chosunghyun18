@@ -9,7 +9,7 @@ BLog : https://chosunghyun18.tistory.com
 
 ---
 
-Team Projects
+Main Projects
 
 🔥 2023.07. ~ Team: WoowahanGongdol (SpringBoot,AWS | BE-Lead)
 
@@ -24,25 +24,24 @@ Team Projects
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
 ---
+For Fun
 
-# For Fun
-
-### 🔥 Domain Modeling and OOP
+🔥 Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
-### 지구 방위대 모바일 게임 (play store)
+지구 방위대 모바일 게임 (play store)
 - **Duration:** 2023.04 ~ 2023.06
 - **Tech Stack:** SpringBoot, AWS | BE
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
-### 2023 구글 솔류션 첼린지
+2023 구글 솔류션 첼린지
 - **Duration:** 2023.01 ~ 2023.04
 - **Description:** 환경을 위한 todo List 서비스 "그린더"
 - **Tech Stack:** SpringBoot, GCP | PL
 - **Repo:** [GitHub Link](https://github.com/Team-Greendar/GreendarServer)
 
-### 2022 구글 솔류션 첼린지
+2022 구글 솔류션 첼린지
 - **Duration:** 2021.12 ~ 2022.03
 - **Description:** UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스 "핸디콘"
 - **Tech Stack:** Flutter App FE
