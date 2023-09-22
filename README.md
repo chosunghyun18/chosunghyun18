@@ -17,7 +17,7 @@ Main Projects
 - **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/TravelFeelDog-Server)
 
-  마이무라  (Play store , app store)
+마이무라  (Play store , app store)
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB 
