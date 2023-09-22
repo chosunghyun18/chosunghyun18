@@ -19,7 +19,7 @@ Team Projects
 
 2022.10 ~ 2023.04 Team: LiveWith (NestJs ,AWS , MongoDB | Dev PL)
 
-한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스
+한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 (IOS ,Android)
 
 - https://github.com/chosunghyun18/Nyam_Backend/tree/main/Nyam_Backend_proj
 
@@ -33,23 +33,27 @@ For Fun
 
 - https://github.com/chosunghyun18/OOP/blob/main/README.md
 
+2023.04 ~ 2023.06 지구 방위대 모바일 게임 (플레이 스토어) 
+
+(SpringBoot,AWS | BE)
+
+- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
+
 2023 구글 솔류션 첼린지
 
-2023.01 ~ 2023.04 Greendar (SpringBoot,GCP | PL) 환경을 위한 todo List 서비스
+2023.01 ~ 2023.04 그린더 환경을 위한 todo List 서비스
+
+ (SpringBoot,GCP | PL)
 
 - https://github.com/Team-Greendar/GreendarServer
 
 2022 구글 솔류션 첼린지
 
-2021.12 ~ 2022.03 HandyCon_Team(Flutter App FE) UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+2021.12 ~ 2022.03 핸디콘 UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스
+
+(Flutter App FE)
 
 - https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon
-
-모바일 게임 (플레이 스토어)
-
-2023.04 ~ 2023.06 Team: EarthDefenseCorps (SpringBoot,AWS | BE)
-
-- https://github.com/EarthDefenseCorps/earth-defense-corps-backend
 
 ---
 
