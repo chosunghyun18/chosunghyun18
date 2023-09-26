@@ -15,7 +15,7 @@ Main Projects
 - **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
 - **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 - **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
-- **Repo:** [GitHub Link](https://github.com/chosunghyun18/TravelFeelDog-Server)
+- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
 
 마이무라  ([Play store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam), app store)
 - **Duration:**  2022.10 ~ 2023.04
