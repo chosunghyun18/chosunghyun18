@@ -8,10 +8,9 @@
 
 ---
 
-
+<div align=center>
 ✏️ BLog : https://chosunghyun18.tistory.com
-
-
+</div>
 
 ---
 
