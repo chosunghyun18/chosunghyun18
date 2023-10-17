@@ -70,7 +70,7 @@ Awards
 - **Team:** NomadWorker , BE
 - **Description:** 디지털 노마드들을 위한 장소 정보 안내 서비스
 - **Tech Stack:** SpringBoo, Mysql, AWS 
-- **Repo:** [GitHub Link](https://github.com/HUFSummer-Hackathon/Server)
+- **Repo:** [GitHub Link](https://github.com/chosunghyun18/Server)
 
 ---
 
