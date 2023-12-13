@@ -32,7 +32,7 @@ Main Projects
 ---
 For Fun
 
-🔥 Domain Modeling and OOP
+Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
