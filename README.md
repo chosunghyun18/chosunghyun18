@@ -17,7 +17,7 @@
 
 Main Projects
 
-🔥 여행필독서 (Travel Feel Dog)
+여행필독서 (Travel Feel Dog)
 - **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
 - **Description:** 한국외대 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 - **Tech Stack:** SpringBoot, AWS , Nginx ,OpenApi 
