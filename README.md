@@ -23,7 +23,7 @@ Main Projects
 - **Tech Stack:** LLM -  RAG,SpringBoot, AWS , Nginx 
 - **Repo:** : [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
 
-마이무라(냠)  ([Play store](https://play.google.com/store/apps/details?id=com.livewithtogether.nyam), app store)
+마이무라(냠)  (deploy at - play store & app store)
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB 
