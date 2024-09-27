@@ -18,7 +18,7 @@
 Main Projects
 
 여행필독서 (Travel Feel Dog)
-- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~
+- **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~ 2023.09
 - **Description:** 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 - **Tech Stack:** LLM -  RAG,SpringBoot, AWS , Nginx 
 - **Repo:** : [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
