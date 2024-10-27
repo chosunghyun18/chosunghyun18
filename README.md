@@ -36,7 +36,7 @@ Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
-지구 방위대 모바일 게임 ([Play store](https://play.google.com/store/apps/details?id=com.devurim.earthdefensecorps&hl=ko-KR))
+지구 방위대 모바일 게임 
 - **Duration:** 2023.04 ~ 2023.05
 - **Tech Stack:** SpringBoot, AWS 
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
