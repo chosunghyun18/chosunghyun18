@@ -81,7 +81,7 @@ Spring Study 기획 및 운영
 
 Computer and Electronic System Engineering
 
-### Double Major
+#### Double Major
 
 Statistics
 
