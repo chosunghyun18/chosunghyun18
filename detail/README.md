@@ -15,7 +15,7 @@
 ---
 
 
-Main Projects
+### Main Projects
 
 여행필독서 (Travel Feel Dog, Web,Mobile_client services - deploy at own domain)
 - **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~ 2023.09
@@ -30,7 +30,7 @@ Main Projects
 - **Repo:** : [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
 
 ---
-For Fun
+### For Fun
 
 Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
@@ -59,8 +59,7 @@ Spring Study 기획 및 운영
 - 커리큘럼 2 : https://docs.google.com/document/d/1Ysvo3MvlKVmaDj9tDN697aRUYDvDejTdYMKWUpHC_54/edit?usp=sharing
 ---
 
-
-Awards
+### Awards
 
 제 2 회 한국외대 썸머 해커톤 , 최우수상
 - **Duration:** 2023.06.
@@ -78,37 +77,58 @@ Awards
 
 ---
 
-Major
+### Major
 
 Computer and Electronic System Engineering
 
-Double Major
+### Double Major
 
 Statistics
 
 ---
 
-Skills
+### Main Skills
 
-Frameworks,Platforms
+Frameworks
 
 <p>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-   
 </p>
 
 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 Infras
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### Experienced Skills(Project Use Level)
+
+Frameworks,Platforms
+
+<p>
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+Databases
+
+<p>
+   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MSSQL-blue?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+Infras
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> 
 
 ---
