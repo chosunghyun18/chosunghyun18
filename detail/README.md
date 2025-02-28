@@ -17,13 +17,13 @@
 
 Main Projects
 
-여행필독서 (Travel Feel Dog)
+여행필독서 (Travel Feel Dog, Web,Mobile_client services - deploy at own domain)
 - **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~ 2023.09
 - **Description:** 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 - **Tech Stack:** LLM -  RAG,SpringBoot, AWS , Nginx 
 - **Repo:** : [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
 
-마이무라(냠)  (deploy at - play store & app store)
+마이무라(냠)  (Nyam, mobile_client , web_admin_page services - deploy at - play store & app store)
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB 
@@ -36,7 +36,7 @@ Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
-지구 방위대 모바일 게임 
+지구 방위대 모바일 게임 (EarhDefenseCorps- deploy at play store)
 - **Duration:** 2023.04 ~ 2023.05
 - **Tech Stack:** SpringBoot, AWS 
 - **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
@@ -65,14 +65,14 @@ Awards
 제 2 회 한국외대 썸머 해커톤 , 최우수상
 - **Duration:** 2023.06.
 - **Team:** 초록 깡통 , Lead
-- **Description:** 혼밥 하기 싫을때 쓰는 밥풀 서비스 
-- **Tech Stack:** SpringBoot, Mysql, AWS
+- **Description:** 혼밥 하기 싫을때 쓰는 서비스 (밥풀 - deploy server at own domain) 
+- **Tech Stack:** SpringBoot, Mysql, AWS,FCM
 - **Repo:** [GitHub Link](https://github.com/GreenTinCan/Bobfull-server)
 
 제 1 회 한국외대 썸머 해커톤 , 우수상
 - **Duration:** 2022.07 ~ 2022.08
 - **Team:** NomadWorker , BE
-- **Description:** 디지털 노마드들을 위한 장소 정보 안내 서비스
+- **Description:** 디지털 노마드들을 위한 장소 정보 안내 서비스 (노마드워커 - deploy server at own domain)
 - **Tech Stack:** SpringBoo, Mysql, AWS 
 - **Repo:** [GitHub Link](https://github.com/chosunghyun18/Server)
 
