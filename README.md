@@ -8,7 +8,7 @@ Read now
 
 - Solidity docs : https://docs.soliditylang.org/en/latest/
 - Java Oprimizaion
-
+- Designing Data-Intensive Applications
 ---
 
 My Past Projects info
