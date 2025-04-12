@@ -21,14 +21,14 @@
 - **Duration:**  2023.04 ~ 2023.05 , 2023.08 ~ 2023.09
 - **Description:** 캡스톤 프로젝트 , 반려인들의 여행 정보를 위한 앱 , 웹 서비스
 - **Tech Stack:** LLM -  RAG,SpringBoot, AWS , Nginx
-- **article:** FireBase 의존성을 벗어나기 위하여 OIDC 로 구현한 SSO 로그인 기능 개발기 - [GitHub Link](https://chosunghyun18.tistory.com/179)
+- **article:** [FireBase 의존성을 벗어나기 위하여 OIDC 로 구현한 SSO 로그인 기능 개발기](https://chosunghyun18.tistory.com/179)
 - **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
 
 마이무라(냠)  (Nyam, mobile_client , web_admin_page services - deploy at - play store & app store)
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB
-- **article:** 운영중 모바일 업데이트를 위한 신규 서버 배포작업 문제 해결기 - [GitHub Link](https://chosunghyun18.tistory.com/68)
+- **article:** [운영중 모바일 업데이트를 위한 신규 서버 배포작업 문제 해결기](https://chosunghyun18.tistory.com/68)
 - **Repo:** : [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
 
 ---
