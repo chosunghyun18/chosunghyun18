@@ -1,8 +1,5 @@
 <div align=center>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchosunghyun18&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</a>
-
 </div>
 
 
@@ -28,8 +25,10 @@
 - **Duration:**  2022.10 ~ 2023.04
 - **Description:** 한국외대 캠퍼스타운 스타트업 프로젝트, 대학상권의 각종 정보를 대학생에게 제공 해주는 서비스 
 - **Tech Stack:** NestJs, AWS, MongoDB
-- **article:** [운영중 모바일 업데이트를 위한 신규 서버 배포작업 문제 해결기](https://chosunghyun18.tistory.com/68)
-- **Repo:** : [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
+- **article:**
+   : [API 조회 성능 개선기](https://chosunghyun18.tistory.com/88)
+   : [운영중 모바일 업데이트를 위한 신규 서버 배포작업 문제 해결기](https://chosunghyun18.tistory.com/68)
+- **Repo:** [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
 
 ---
 ### For Fun
