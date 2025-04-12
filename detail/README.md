@@ -24,7 +24,7 @@
 
   - [스프링부트 3.1.0 버전 업데이트](https://chosunghyun18.tistory.com/168)
  
-- **Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
+- **Code Repo:** [GitHub Link](https://github.com/HUFS-Capstone-23-01/TravelFeelDog-Server)
 
 마이무라(냠)  (Nyam, mobile_client , web_admin_page services - deploy at - play store & app store)
 - **Duration:**  2022.10 ~ 2023.04
@@ -35,31 +35,33 @@
    - [API 조회 성능 개선기](https://chosunghyun18.tistory.com/88)
   
    - [운영중 모바일 업데이트를 위한 신규 서버 배포작업 문제 해결기](https://chosunghyun18.tistory.com/68)
-- **Repo:** [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
+     
+- **Code Repo:** [GitHub Link](https://github.com/chosunghyun18/Nyam_Backend)
 
 ---
 ### For Fun
 
 Domain Modeling and OOP
 -  도메인 모델링 , OOP , 소프트웨어 아키택처의 학습을 위한 스터디를 진행했던 저장소 모음
-- **Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
+- **Code Repo:** [GitHub Link](https://github.com/chosunghyun18/OOP/blob/main/README.md)
 
 지구 방위대 모바일 게임 (EarhDefenseCorps- deploy at play store)
 - **Duration:** 2023.04 ~ 2023.05
-- **Tech Stack:** SpringBoot, AWS 
-- **Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
+- **Tech Stack:** SpringBoot, AWS
+  
+- **Code Repo:** [GitHub Link](https://github.com/EarthDefenseCorps/earth-defense-corps-backend)
 
 2023 구글 솔류션 첼린지 PL
 - **Duration:** 2023.01 ~ 2023.04
 - **Description:** 환경을 위한 todo List 서비스 "그린더"
 - **Tech Stack:** SpringBoot, GCP 
-- **Repo:** [GitHub Link](https://github.com/Team-Greendar/GreendarServer)
+- **Code Repo:** [GitHub Link](https://github.com/Team-Greendar/GreendarServer)
 
 2022 구글 솔류션 첼린지 FE
 - **Duration:** 2021.12 ~ 2022.03
 - **Description:** UN 이 선정한 주제에 맞는 기부들의 정보를 제공하는 서비스 "핸디콘"
 - **Tech Stack:** Flutter App 
-- **Repo:** [GitHub Link](https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon)
+- **Code Repo:** [GitHub Link](https://github.com/DSCHUFS/Solution-Challenge-2022-HandyCon)
 
 Spring Study 기획 및 운영
 
@@ -74,14 +76,14 @@ Spring Study 기획 및 운영
 - **Team:** 초록 깡통 , Lead
 - **Description:** 혼밥 하기 싫을때 쓰는 서비스 (밥풀 - deploy server at own domain) 
 - **Tech Stack:** SpringBoot, Mysql, AWS,FCM
-- **Repo:** [GitHub Link](https://github.com/GreenTinCan/Bobfull-server)
+- **Code Repo:** [GitHub Link](https://github.com/GreenTinCan/Bobfull-server)
 
 제 1 회 한국외대 썸머 해커톤 , 우수상
 - **Duration:** 2022.07 ~ 2022.08
 - **Team:** NomadWorker , BE
 - **Description:** 디지털 노마드들을 위한 장소 정보 안내 서비스 (노마드워커 - deploy server at own domain)
 - **Tech Stack:** SpringBoo, Mysql, AWS 
-- **Repo:** [GitHub Link](https://github.com/chosunghyun18/Server)
+- **Code Repo:** [GitHub Link](https://github.com/chosunghyun18/Server)
 
 ---
 
