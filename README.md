@@ -6,9 +6,9 @@ WEB3, New Web Service
 ---
 Read now
 
-- Solidity docs : https://docs.soliditylang.org/en/latest/
 - Designing Data-Intensive Applications
-- Java Optimization
+- 가상면접 사례로 배우는 대규모 시스템 설계
+
 ---
 
 My Past Projects info
