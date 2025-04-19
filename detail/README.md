@@ -1,15 +1,3 @@
-<div align=center>
-
-</div>
-
-
----
-
-<div align=center>
-✏️ BLog : https://chosunghyun18.tistory.com
-</div>
-
----
 ### Enterprise Projects
 
 HD현대 그룹사 python 개발 환경 제공 (Django,SpringBoot,Redis,Docker)
@@ -165,5 +153,11 @@ Infras
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> 
+
+---
+
+<div align=center>
+✏️ BLog : https://chosunghyun18.tistory.com
+</div>
 
 ---
