@@ -1,34 +1,19 @@
 ### Enterprise Projects
 
-HD현대 그룹사 python 개발 환경 제공 (Django,SpringBoot,Redis,Docker)
+HDxBuilder Python Project
+- **Duration:** 2024.03 ~2024.08
+- **Description:** HD현대 그룹사 python 개발 환경을 제공
+- **Tech Stack:** Django,SpringBoot,Redis,Docker
 
-사내에서 python 개발을 원활하게 할 수 있게 진행한 프로젝트입니다.
+HDMocean AppStore Project
+- **Duration:** 2024.08 ~2024.11
+- **Description:** HD현대 그룹사에서 제공하는 200개의 모바일 어플리케이션을 하나의 웹기반 모바일 App에서 접근하는 프로젝트
+- **Tech Stack:** SpringBoot, Data JPA, MyBatis, MSSQL,Vue.js 
 
- - Django, Fastapi 비교 기술 검토 진행
- - 사내 Spring 기반의 템플릿을 분석하여 장고 코드 템플릿 및 라이브러리로 개발 진행
-
-    - SSO 로그인 정보 레디스 확인 , 공통 DTO, 예외처리, 로깅 등
-
- - 사내망에서 pip install 이 원활하게 가능하도록 nexus respository 구성
- - 기존 gitlab runner 환경을 활용한 ci/cd 구성 (Docker 활용)
- - 장고 테스트용 웹사이트를 개발하는 과정을 통해, 기존 AJP 설정  변경 및 개발 가이드 제공
- - 개발 진행 사항 공유를 위한 깃랩 위키 및 프로젝트 대시보드 사용 제안 및 구성
-
-HD 현대 그룹사에서 제공하는 200개의 모바일 어플리케이션을 하나의 웹기반 모바일 App에서 접근하는 프로젝트
-- 각 회사별, 직급별 어플리케이션 조회, 신청 권한 설계 및 개발
-- 조건별 등록된 어플리케이션 검색 기능 개발
-- 운영중 발생한  오류 로그 분석을 위한 파이썬 프로그램 개발 및 팀 공유
-
-모바일 플랫폼 AppStore 개발 및 운영 (SpringBoot, Data JPA, MyBatis, MSSQL,Vue.js )
-
-YardLife 개발 및 운영 (SpringBoot, Data JPA, MyBatis, MSSQL,Vue.js )
-
-HD 현대그룹 울산 근무지 특화 생활 모바일 앱
-
- - 사내 식당 식단 정보 제공기능 개선
-   - 외부 시스템의 DB로 부터 식단 정보를 DB링크를 통해 불러오는 구조에서 발생하는 오류를 해결
-
-
+YardLife 개발 및 운영
+- **Duration:** 2024.04 ~2024.11
+- **Description:**  HD현대 그룹 울산 근무지 생활정보 제공 모바일 앱
+- **Tech Stack:** SpringBoot, Data JPA, MyBatis, MSSQL,Vue.js 
 
 
 ### Undergraduate Projects
